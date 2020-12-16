@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METATRANSCRIPT xmlns="http://www.mpi.nl/IMDI/Schema/IMDI"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                Date="2020-09-10"
+                FormatId="IMDI 3.03"
+                Originator="Arbil.2.6.1109:"
+                Type="SESSION"
+                Version="0"
+                xsi:schemaLocation="http://www.mpi.nl/IMDI/Schema/IMDI ./IMDI_3.0.xsd">
+  <Session>
+      <Name>Conte-2020_03_21</Name>
+      <Title>Conte-2020_03_21</Title>
+      <Date>2020-03-21</Date>
+      <Description LanguageId="ISO639-3:ita" Link="">Statement - Prime Minister Giuseppe Conte</Description>
+      <MDGroup>
+         <Location>
+            <Continent Link="http://www.mpi.nl/IMDI/Schema/Continents.xml"
+                       Type="ClosedVocabulary">Europe</Continent>
+            <Country Link="http://www.mpi.nl/IMDI/Schema/Countries.xml"
+                     Type="OpenVocabulary">Italy</Country>
+            <Region/>
+            <Address>Rome</Address>
+         </Location>
+         
+         <Keys>
+      </Keys>
+         
+         <Content>
+            <Genre Link="http://www.mpi.nl/IMDI/Schema/Content-Genre.xml"
+                   Type="OpenVocabulary">Discourse</Genre>
+            <SubGenre Link="http://www.mpi.nl/IMDI/Schema/Content-SubGenre.xml"
+                      Type="OpenVocabularyList"/>
+            <Task Link="http://www.mpi.nl/IMDI/Schema/Content-Task.xml"
+                  Type="OpenVocabulary"/>
+            <Modalities Link="http://www.mpi.nl/IMDI/Schema/Content-Modalities.xml"
+                        Type="OpenVocabularyList">speech</Modalities>
+            <Subject Link="http://www.mpi.nl/IMDI/Schema/Content-Subject.xml"
+                     Type="OpenVocabularyList">Covid-19 pandemic</Subject>
+            <CommunicationContext>
+               <Interactivity Link="http://www.mpi.nl/IMDI/Schema/Content-Interactivity.xml"
+                              Type="ClosedVocabulary">non-interactive</Interactivity>
+               <PlanningType Link="http://www.mpi.nl/IMDI/Schema/Content-PlanningType.xml"
+                             Type="ClosedVocabulary">planned</PlanningType>
+               <Involvement Link="http://www.mpi.nl/IMDI/Schema/Content-Involvement.xml"
+                            Type="ClosedVocabulary">non-elicited</Involvement>
+               <SocialContext Link="http://www.mpi.nl/IMDI/Schema/Content-SocialContext.xml"
+                              Type="ClosedVocabulary">Public</SocialContext>
+               <EventStructure Link="http://www.mpi.nl/IMDI/Schema/Content-EventStructure.xml"
+                               Type="ClosedVocabulary">Monologue</EventStructure>
+               <Channel Link="http://www.mpi.nl/IMDI/Schema/Content-Channel.xml"
+                        Type="ClosedVocabulary">Broadcasting</Channel>
+            </CommunicationContext>
+            <Languages>
+               <Description LanguageId="ISO639-3:eng" Link=""/>
+            </Languages>
+            <Keys>
+        </Keys>
+            <Description LanguageId="ISO639-3:ita" Link="">Statements - “Close Italy” (“Chiudi Italia”) decree: additional restrictions on individuals’ movements are established, together with the shutdown of production activities on the whole Italian territory</Description>
+         </Content>
+         <Actors>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Speaker/Signer</Role>
+               <Name>Giuseppe Conte</Name>
+               <FullName>Giuseppe Conte</FullName>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Prime Minister</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:ita" Link="">italian</Description>
+               </Languages>
+               <EthnicGroup/>
+               <Age>55</Age>
+               <BirthDate>1964-08-08</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Male</Sex>
+               <Education>PhD</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                           Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Keys>
+        </Keys>
+               <Description LanguageId="" Link=""/>
+            </Actor>
+         </Actors>
+      </MDGroup>
+      <Resources>
+         <MediaFile>
+            <ResourceLink>https://www.youtube.com/watch?v=GN_m-rH7g7I</ResourceLink>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/MediaFile-Type.xml"
+                  Type="ClosedVocabulary">video</Type>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/MediaFile-Format.xml"
+                    Type="OpenVocabulary">video/mp4</Format>
+            <Size>55,2 MB - 7'06''</Size>
+            <Quality Link="http://www.mpi.nl/IMDI/Schema/Quality.xml"
+                     Type="ClosedVocabulary"/>
+            <RecordingConditions/>
+            <TimePosition>
+               <Start>Unspecified</Start>
+               <End>Unspecified</End>
+            </TimePosition>
+            <Access>
+               <Availability/>
+               <Date>2020-05-30</Date>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="" Link=""/>
+            </Access>
+            <Description LanguageId="" Link=""/>
+            <Keys>
+        </Keys>
+         </MediaFile>
+      </Resources>
+      <References>
+    </References>
+  </Session>
+</METATRANSCRIPT>

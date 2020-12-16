@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METATRANSCRIPT xmlns="http://www.mpi.nl/IMDI/Schema/IMDI"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                Date="2020-09-10"
+                FormatId="IMDI 3.0"
+                Originator="Arbil.2.6.1109:"
+                Type="CATALOGUE"
+                Version="12"
+                xsi:schemaLocation="http://www.mpi.nl/IMDI/Schema/IMDI ./IMDI_3.0.xsd">
+    <History/>
+    <Catalogue>
+        <Name>ItaIC-Covid19</Name>
+        <Title>ItaIC-Covid19</Title>
+        <Id/>
+        <!--Description: minOccurs=0 maxOccurs=unbounded-->
+        <Description ArchiveHandle="" LanguageId="ISO639-3:eng" Link="" Name="">Spoken corpus of statements and press conferences uttered by the Italian Prime Minister, Giuseppe Conte, and the President of the Italian Republic, Sergio Mattarella, during the Covid-19 outbreak.</Description>
+        <DocumentLanguages>
+            <!--Description: minOccurs=0 maxOccurs=unbounded-->
+            <!--Language: minOccurs=0 maxOccurs=unbounded-->
+        </DocumentLanguages>
+        <SubjectLanguages>
+            <!--Description: minOccurs=0 maxOccurs=unbounded-->
+            <!--Language: minOccurs=0 maxOccurs=unbounded-->
+        </SubjectLanguages>
+        <!--Location: minOccurs=1 maxOccurs=unbounded-->
+        <Location>
+            <Continent Link="http://www.mpi.nl/IMDI/Schema/Continents.xml"
+                    Type="OpenVocabulary"/>
+            <Country Link="http://www.mpi.nl/IMDI/Schema/Countries.xml"
+                  Type="ClosedVocabulary"/>
+            <Region/>
+            <Address/>
+        </Location>
+        <!--ContentType: minOccurs=1 maxOccurs=unbounded-->
+        <ContentType/>
+        <Format>
+            <Text>txt</Text>
+            <Audio/>
+            <Video>mp4</Video>
+            <Image/>
+        </Format>
+        <Quality>
+            <Text>high</Text>
+            <Audio>high</Audio>
+            <Video>high</Video>
+            <Image/>
+        </Quality>
+        <SmallestAnnotationUnit>word</SmallestAnnotationUnit>
+        <Applications Link="http://www.mpi.nl/IMDI/Schema/CatalogueApplicationType.xml"
+                    Type="OpenVocabulary"/>
+        <Date>2020</Date>
+        <Project>
+            <Name>Psychological Reactions to the Pandemic</Name>
+            <Title>Psychological Reactions to the Pandemic</Title>
+            <Id/>
+            <Contact>
+                <Name>Gloria Gagliardi</Name>
+                <Address/>
+                <Email>gloria.gagliardi@gmail.com</Email>
+                <Organisation>Università di Napoli "L'Orientale"</Organisation>
+            </Contact>
+            <!--Description: minOccurs=0 maxOccurs=unbounded-->
+            <Description ArchiveHandle="" LanguageId="" Link="" Name=""/>
+        </Project>
+        <!--Publisher: maxOccurs=unbounded-->
+        <Publisher/>
+        <!--Author: maxOccurs=unbounded-->
+        <Author>Gloria Gagliardi, Alice Suozzi</Author>
+        <Size>1h 59'47'' - 36566 tokens</Size>
+        <DistributionForm>Open Access</DistributionForm>
+        <Access>
+            <Availability/>
+            <Date/>
+            <Owner/>
+            <Publisher/>
+            <Contact>
+                <Name/>
+                <Address/>
+                <Email/>
+                <Organisation/>
+            </Contact>
+            <!--Description: minOccurs=0 maxOccurs=unbounded-->
+            <Description ArchiveHandle="" LanguageId="" Link="" Name=""/>
+        </Access>
+        <Pricing>/</Pricing>
+        <ContactPerson>Gloria Gagliardi</ContactPerson>
+        <ReferenceLink/>
+        <MetadataLink/>
+        <Publications/>
+        <Keys>
+            <!--Key: minOccurs=0 maxOccurs=unbounded-->
+        </Keys>
+    </Catalogue>
+</METATRANSCRIPT>
